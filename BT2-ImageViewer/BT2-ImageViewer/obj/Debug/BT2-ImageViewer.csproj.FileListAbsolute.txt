@@ -1,0 +1,10 @@
+E:\[BaiTapWinforms]\BT2-ImageViewer\BT2-ImageViewer\bin\Debug\BT2-ImageViewer.exe.config
+E:\[BaiTapWinforms]\BT2-ImageViewer\BT2-ImageViewer\bin\Debug\BT2-ImageViewer.exe
+E:\[BaiTapWinforms]\BT2-ImageViewer\BT2-ImageViewer\bin\Debug\BT2-ImageViewer.pdb
+E:\[BaiTapWinforms]\BT2-ImageViewer\BT2-ImageViewer\obj\Debug\BT2-ImageViewer.csproj.AssemblyReference.cache
+E:\[BaiTapWinforms]\BT2-ImageViewer\BT2-ImageViewer\obj\Debug\BT2_ImageViewer.Properties.Resources.resources
+E:\[BaiTapWinforms]\BT2-ImageViewer\BT2-ImageViewer\obj\Debug\BT2-ImageViewer.csproj.GenerateResource.cache
+E:\[BaiTapWinforms]\BT2-ImageViewer\BT2-ImageViewer\obj\Debug\BT2-ImageViewer.csproj.CoreCompileInputs.cache
+E:\[BaiTapWinforms]\BT2-ImageViewer\BT2-ImageViewer\obj\Debug\BT2-ImageViewer.exe
+E:\[BaiTapWinforms]\BT2-ImageViewer\BT2-ImageViewer\obj\Debug\BT2-ImageViewer.pdb
+E:\[BaiTapWinforms]\BT2-ImageViewer\BT2-ImageViewer\obj\Debug\BT2_ImageViewer.imageViewerForm.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2-ImageViewer", "BT2-ImageViewer\BT2-ImageViewer.csproj", "{49D21E72-A711-4B84-9CF2-A8F68F5FE047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D21E72-A711-4B84-9CF2-A8F68F5FE047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D21E72-A711-4B84-9CF2-A8F68F5FE047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D21E72-A711-4B84-9CF2-A8F68F5FE047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D21E72-A711-4B84-9CF2-A8F68F5FE047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B7628C5-5214-465F-BD80-15FC071A80A8}
+	EndGlobalSection
+EndGlobal
